@@ -1,5 +1,5 @@
 <div align="center">
-## À propos
+# À propos
 🎓 Étudiant ingénieur à **Sup Galilée – Sorbonne Paris Nord**, en spécialisation IA, Systèmes Distribués & Cybersécurité — actuellement en alternance.
 
 Je construis des systèmes à l'intersection de **l'intelligence, de l'infrastructure et de la donnée**.  
