@@ -21,10 +21,6 @@ Ce qui me motive : concevoir des machines qui ne se contentent pas d'exécuter, 
 qu'il s'agisse d'un réseau multi-agents prenant des décisions autonomes, d'un modèle géospatial détectant  
 des anomalies depuis l'orbite, ou d'un protocole cryptographique qui prouve sans révéler.
 
-J'ai précédemment piloté un système d'analyse d'images satellitaires chez **Djezzy**  
-(YOLO, mAP@50 = 0.874, −85 % des coûts d'audit).  
-Avant ça, une Licence en Génie Logiciel à l'**USTHB Alger** *(Mention Bien)*.
-
 Mes obsessions du moment : **raisonnement causal** · **systèmes financiers intelligents** · **IA géospatiale**
 
 👇 *Mes projets sont visibles ci-dessous.*
@@ -32,8 +28,6 @@ Mes obsessions du moment : **raisonnement causal** · **systèmes financiers int
 -----
 
 <div align="center">
-
-*“Beyond execution — software with intent.”*
 
 </div>
 
