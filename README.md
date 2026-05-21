@@ -3,12 +3,6 @@
 # Salim NEKHLA
 
 ### Ingénieur IA · DevOps · Systèmes Distribués
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salim--Nekhla-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Salim-Nekhla)
-[![Email](https://img.shields.io/badge/Email-nekhlasalim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nekhlasalim@gmail.com)
-[![Phone](https://img.shields.io/badge/Tel-+33%206%2058%2004%2039%2000-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+33658043900)
-![Paris](https://img.shields.io/badge/Paris%2C%20France-📍-lightgrey?style=flat-square)
-
 </div>
 
 -----
