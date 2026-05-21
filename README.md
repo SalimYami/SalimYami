@@ -14,89 +14,20 @@
 -----
 
 ## À propos
+🎓 Étudiant ingénieur à **Sup Galilée – Sorbonne Paris Nord**, en spécialisation IA, Systèmes Distribués & Cybersécurité — actuellement en alternance.
 
-Étudiant ingénieur en 1ère année à **Sup Galilée – Sorbonne Paris Nord** (spécialisation IA, Systèmes Distribués, Cybersécurité), en alternance **2 semaines école / 2 semaines entreprise**.
+Je construis des systèmes à l'intersection de **l'intelligence, de l'infrastructure et de la donnée**.  
+Ce qui me motive : concevoir des machines qui ne se contentent pas d'exécuter, mais qui *comprennent* —  
+qu'il s'agisse d'un réseau multi-agents prenant des décisions autonomes, d'un modèle géospatial détectant  
+des anomalies depuis l'orbite, ou d'un protocole cryptographique qui prouve sans révéler.
 
-Titulaire d’une Licence ISIL *(Mention Bien)* de l’USTHB Alger, avec une expérience concrète en tant que Chef de Projet & Développeur Full-Stack chez **Djezzy** sur un système d’analyse d’images satellitaires (YOLO, mAP@50 = 0.874, −85 % coûts d’audit).
+J'ai précédemment piloté un système d'analyse d'images satellitaires chez **Djezzy**  
+(YOLO, mAP@50 = 0.874, −85 % des coûts d'audit).  
+Avant ça, une Licence en Génie Logiciel à l'**USTHB Alger** *(Mention Bien)*.
 
-Je construis des systèmes à l’intersection de l’IA, de l’infrastructure et de la donnée — avec un intérêt particulier pour le raisonnement causal, les systèmes financiers intelligents et la géospatiale.
+Mes obsessions du moment : **raisonnement causal** · **systèmes financiers intelligents** · **IA géospatiale**
 
------
-
-## Stack
-
-**Langages**
-`Python` `JavaScript / TypeScript` `C` `Bash` `SQL`
-
-**IA / ML**
-`PyTorch` `YOLO` `Transformers` `RAG` `LangChain` `FRED API`
-
-**DevOps / Infra**
-`Docker` `Kubernetes` `Terraform` `Ansible` `CI/CD` `Linux`
-
-**Web & Backend**
-`React` `Three.js` `Node.js` `Express` `WebRTC` `FastAPI`
-
-**Data**
-`MongoDB` `PostgreSQL` `Redis` `Pandas` `D3.js`
-
------
-
-## Projets
-
-### 🔐 [VEIL](https://github.com/SalimYami/veil)
-
-Stockage cloud chiffré 100 % côté navigateur. La clé ne touche jamais le serveur.
-`Python` `AES-256` `Browser Crypto API`
-
-### 🧬 [SynthForge](https://github.com/SalimYami/SynthForge)
-
-Plateforme éducative de visualisation 3D de peptides. Encyclopédie de 20 acides aminés, base de données de peptides bioactifs, intégration RCSB PDB / PubChem / UniProt.
-`React` `Three.js` `JavaScript`
-
-### 🌐 [Vertex](https://github.com/SalimYami/vertex)
-
-Serveur de signalisation WebRTC — −40 % de latence initiale, sessions vidéo 4K.
-`JavaScript` `Node.js` `WebRTC`
-
-### 🧠 Arche Axiom *(privé)*
-
-Système de raisonnement économique causal alimenté par IA. Graphe causal 3 couches (commodités → secteurs, macro → classes d’actifs, géopolitique → opportunités), RAG sur 250+ œuvres doctrinales, zéro hallucination documentée.
-`Python` `D3.js` `RAG` `FRED API` `LangChain`
-
-### 📡 Arche Pulse *(privé)*
-
-Modèle hybride asymétrique d’analyse de sentiment financier — 94 % de précision, gestion de l’ironie et du sarcasme en contexte financier.
-`Python` `NLP` `PyTorch` `Transformers`
-
-### ⚙️ StackPro Orchestrator *(privé)*
-
-Couche DevOps/K8s full-stack : +75 % productivité déploiement, 99,9 % uptime, restauration < 60 s.
-`Kubernetes` `Terraform` `Ansible` `Docker` `CI/CD`
-
------
-
-## Expérience
-
-**Chef de Projet & Développeur Full-Stack** — *Djezzy, Alger* *(PFE 2024–2025)*
-Plateforme d’analyse d’images satellitaires pour la rentabilité des antennes BTS.
-→ 200 000 images annotées · YOLO mAP@50 = 0.874 · −85 % coûts d’audit · wilaya traitée en heures vs. mois manuellement.
-
-**Stagiaire Systèmes & Réseaux** — *CDMI, Alger* *(3 mois)*
-Administration réseau, infrastructure, sécurité systèmes.
-
------
-
-## Formation
-
-🎓 **Ingénieur en Informatique** — Sup Galilée, Sorbonne Paris Nord *(2025–2028)*
-🎓 **Licence ISIL — Mention Bien** — USTHB Alger *(2022–2025)*
-
------
-
-## Langues
-
-🇫🇷 Français — C2 · 🇬🇧 Anglais — C1 · 🇩🇿 Arabe — Natif
+👇 *Mes projets sont visibles ci-dessous.*
 
 -----
 
