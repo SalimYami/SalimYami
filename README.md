@@ -1,12 +1,4 @@
 <div align="center">
-
-# Salim NEKHLA
-
-### Ingénieur IA · DevOps · Systèmes Distribués
-</div>
-
------
-
 ## À propos
 🎓 Étudiant ingénieur à **Sup Galilée – Sorbonne Paris Nord**, en spécialisation IA, Systèmes Distribués & Cybersécurité — actuellement en alternance.
 
@@ -20,9 +12,7 @@ Mes obsessions du moment : **raisonnement causal** · **systèmes financiers int
 👇 *Mes projets sont visibles ci-dessous.*
 
 -----
-
 <div align="center">
-
 </div>
 
 <!--
