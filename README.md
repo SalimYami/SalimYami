@@ -89,7 +89,7 @@ Administration réseau, infrastructure, sécurité systèmes.
 
 ## Formation
 
-🎓 **Ingénieur en IA & Systèmes Distribués** — Sup Galilée, Sorbonne Paris Nord *(2025–2028)*
+🎓 **Ingénieur en Informatique** — Sup Galilée, Sorbonne Paris Nord *(2025–2028)*
 🎓 **Licence ISIL — Mention Bien** — USTHB Alger *(2022–2025)*
 
 -----
